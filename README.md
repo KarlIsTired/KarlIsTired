@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hey 👋, I'm Karl A</h1>
+<h3 align="center">Solarity#5804 // Based in the United States</h3>
 
-<!--
-**KarlIsTired/KarlIsTired** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [NoelP X AIO](https://noelp-backend.xyz/download)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Python and JavaScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m collaborating with [NoelP](https://github.com/NoelisTired)
+
+- 👨‍💻 All of my projects are available at [the NoelP X Discord Server](the NoelP X Discord Server)
+
+- 💬 Ask me about **the aerodynamics of a cow**
+
+- 📫 How to reach me **Solarity#5804 / Discord**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/cQZTC2WtCb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cQZTC2WtCb" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
