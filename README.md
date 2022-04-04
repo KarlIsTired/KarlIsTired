@@ -7,7 +7,7 @@
 
 - 👯 I’m collaborating with [NoelP](https://github.com/NoelisTired)
 
-- 👨‍💻 All of my projects are available at [the NoelP X Discord Server](the NoelP X Discord Server)
+- 👨‍💻 All of my projects are available at the NoelP X Discord Server
 
 - 💬 Ask me about **the aerodynamics of a cow**
 
